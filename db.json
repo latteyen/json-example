@@ -4,7 +4,7 @@
         {"id":"","label":"Slices","pattern":"","type":"number"}
       ],
   "rows": [
-        {"c":[{"v":"bitcoin","f":null},{"v":4,"f":null}]},
+        {"c":[{"v":"bitcoin","f":null},{"v":6,"f":null}]},
         {"c":[{"v":"litecoin","f":null},{"v":1,"f":null}]},
         {"c":[{"v":"ethereum","f":null},{"v":1,"f":null}]},
         {"c":[{"v":"bitcoin cash","f":null},{"v":1,"f":null}]},
